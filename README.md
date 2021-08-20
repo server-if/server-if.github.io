@@ -1,6 +1,6 @@
 # Server Tambora
 
-![system spec](./tambora.png)
+![system spec](./tambora-screenfetch.png)
 
 ## Cara Akses
 
@@ -12,3 +12,15 @@
 - [ ] Request ke Admin dengan menggunakan email std.stei dengan mengisi [form akses](https://forms.gle/fbpLT9gtQQm1GcXWA).
 - [ ] Setelah itu anda akan mendapatkan email berisi google sheets booking server dan discord server untuk FAQ, Bug Report, info maintenance, dll.
 - [ ] Setelah mengisi google sheets silahkan pergunakan server sesuai dengan jadwal yang telah anda booking.
+
+## Other Specs
+
+### NVIDIA
+![GPU spec](./tambora-nvidia.png)
+### CPU
+![CPU spec](./tambora-cpu.png)
+### Threads
+![htop spec](./tambora-process.png)
+### Storage
+![storage spec](./tambora-storage.png)
+> Dua storage belum di mount, untuk saat ini hanya 1TB space
