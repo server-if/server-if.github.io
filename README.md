@@ -13,6 +13,16 @@
 - [ ] Setelah itu anda akan mendapatkan email berisi google sheets booking server dan discord server untuk FAQ, Bug Report, info maintenance, dll.
 - [ ] Setelah mengisi google sheets silahkan pergunakan server sesuai dengan jadwal yang telah anda booking.
 
+## Current Installed Program
+
+- git and git-lfs
+- python 3.7 as default
+  - conda untuk environment tambahan
+  - pytorch dan tensorflow package default
+- 
+
+## Pertanyaan Lain
+
 ## Other Specs
 
 ### NVIDIA
