@@ -47,3 +47,7 @@ vim ~/.ssh/authorized_keys
 Copy public key kalian kedalam file tersebut, save dan sekarang kalian bisa mengakses server dengan ssh, dari akses tersebut, gunakan tmux untuk menjalankan script yang perlu berjalan lama dan bisa ditinggal walaupun VPN bermasalah. Untuk detail mengenai membuat ssh key pair, bisa ikuti [Help dari Github](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 P.S. tmux mirip seperti `screen`, untuk pengenalan tmux bisa dicari sendiri, salah satu bacaan yang direkomendasikan adalah [artikel oleh Nick Janetakis](https://nickjanetakis.com/blog/who-else-wants-to-boost-their-productivity-with-tmux)
+
+## Waktu install make pip dan conda kok gabisa ya? kena ProxyError
+
+Nah ini masih bingung kenapanya, kadang error kadang aman, jadi kalau ada masalah gini cobain kasih manual [proxy ITB](https://ditsti.itb.ac.id/en/proxy-internet-itb/) kalian waktu manggil [`pip`](https://leifengblog.net/blog/how-to-use-pip-behind-a-proxy/) atau [`conda`](https://docs.anaconda.com/anaconda/user-guide/tasks/proxy/). 
