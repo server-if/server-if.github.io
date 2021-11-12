@@ -1,6 +1,6 @@
 # Server Tambora
 
-![system spec](./tambora-screenfetch.png)
+![system spec](./resources/tambora-screenfetch.png)
 
 ## Cara Akses
 
