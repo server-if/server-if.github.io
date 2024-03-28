@@ -1,4 +1,4 @@
-# Server Tambora
+# Server Tambora S2 IF STEI ITB
 
 ![System spec](./resources/tambora-screenfetch.png)
 
