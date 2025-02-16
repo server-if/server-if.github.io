@@ -112,6 +112,6 @@ Jika Anda menggunakan fasilitas server Tambora baik untuk keperluan akademik, mo
 
 ## Kontak kami
 
-### [Christopher - Admin S2 (Fast Track)](18221115@std.stei.itb.ac.id)
+### [Christopher - Admin S2](18221115@std.stei.itb.ac.id)
 
 ### [Aufar - Admin S1](18221163@std.stei.itb.ac.id)
